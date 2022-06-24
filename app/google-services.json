@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978191774381",
+    "project_id": "practice-6acde",
+    "storage_bucket": "practice-6acde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978191774381:android:24c61b96cedc21477ecc24",
+        "android_client_info": {
+          "package_name": "com.viktadzy.practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978191774381-j0oakflco91p6mv3egunkd8ec9j39ddn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglqLchuGJRAQMK0uENdGMcxHB-vsnZ8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978191774381-j0oakflco91p6mv3egunkd8ec9j39ddn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
